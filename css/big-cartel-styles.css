@@ -1,0 +1,14 @@
+.input-wrap .left,
+.input-wrap .right {
+	float: left;
+}
+.input-wrap .right {
+	margin-left: 25px;
+	clear: right;
+}
+.input-wrap span {
+	display: block;
+	clear: both;
+	font-size: 115%;
+	padding-top: 15px;
+}
